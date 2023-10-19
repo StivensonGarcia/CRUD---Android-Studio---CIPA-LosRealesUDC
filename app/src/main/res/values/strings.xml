@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrudReales</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="delete_completed">Eliminar Completadas</string>
+    <string name="completed">Completada</string>
+    <string name="not_completed">No completada</string>
+</resources>
